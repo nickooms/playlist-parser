@@ -1,0 +1,23 @@
+{
+  "name": "playlist-parser",
+  "version": "1.0.0",
+  "description": "Playlist parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickooms/playlist-parser.git"
+  },
+  "keywords": [
+    "playlist",
+    "parser"
+  ],
+  "author": "Nick Ooms <oomsni@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickooms/playlist-parser/issues"
+  },
+  "homepage": "https://github.com/nickooms/playlist-parser#readme"
+}
